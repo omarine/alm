@@ -12,7 +12,7 @@ namespace HelloGit
 
         private static string DisplayMessage()
         {
-            return "Hello Git";
+            return "Hello Git from Web";
         }
     }
 }
